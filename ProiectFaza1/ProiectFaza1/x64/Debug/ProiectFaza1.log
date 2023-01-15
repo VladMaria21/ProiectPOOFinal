@@ -1,0 +1,42 @@
+﻿  Bilet.cpp
+C:\Users\xxxme\Desktop\ASE\An2_Sem1\Poo\ProiecteVisual\ProiectFaza1\ProiectFaza1\Bilet.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Eveniment.cpp
+C:\Users\xxxme\Desktop\ASE\An2_Sem1\Poo\ProiecteVisual\ProiectFaza1\ProiectFaza1\Eveniment.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\xxxme\Desktop\ASE\An2_Sem1\Poo\ProiecteVisual\ProiectFaza1\ProiectFaza1\Eveniment.cpp(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\xxxme\Desktop\ASE\An2_Sem1\Poo\ProiecteVisual\ProiectFaza1\ProiectFaza1\Ocazie.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\xxxme\Desktop\ASE\An2_Sem1\Poo\ProiecteVisual\ProiectFaza1\ProiectFaza1\Eveniment.cpp(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\xxxme\Desktop\ASE\An2_Sem1\Poo\ProiecteVisual\ProiectFaza1\ProiectFaza1\Eveniment.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\xxxme\Desktop\ASE\An2_Sem1\Poo\ProiecteVisual\ProiectFaza1\ProiectFaza1\Eveniment.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\xxxme\Desktop\ASE\An2_Sem1\Poo\ProiecteVisual\ProiectFaza1\ProiectFaza1\Eveniment.h(15,2): warning C4091: 'typedef ': ignored on left of 'Data' when no variable is declared
+  Invitatie.cpp
+C:\Users\xxxme\Desktop\ASE\An2_Sem1\Poo\ProiecteVisual\ProiectFaza1\ProiectFaza1\Invitatie.cpp(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\xxxme\Desktop\ASE\An2_Sem1\Poo\ProiecteVisual\ProiectFaza1\ProiectFaza1\Invitatie.cpp(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\xxxme\Desktop\ASE\An2_Sem1\Poo\ProiecteVisual\ProiectFaza1\ProiectFaza1\Invitatie.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Locatie.cpp
+C:\Users\xxxme\Desktop\ASE\An2_Sem1\Poo\ProiecteVisual\ProiectFaza1\ProiectFaza1\Locatie.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\xxxme\Desktop\ASE\An2_Sem1\Poo\ProiecteVisual\ProiectFaza1\ProiectFaza1\Locatie.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\xxxme\Desktop\ASE\An2_Sem1\Poo\ProiecteVisual\ProiectFaza1\ProiectFaza1\Eveniment.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\xxxme\Desktop\ASE\An2_Sem1\Poo\ProiecteVisual\ProiectFaza1\ProiectFaza1\Eveniment.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\xxxme\Desktop\ASE\An2_Sem1\Poo\ProiecteVisual\ProiectFaza1\ProiectFaza1\Ocazie.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\xxxme\Desktop\ASE\An2_Sem1\Poo\ProiecteVisual\ProiectFaza1\ProiectFaza1\Eveniment.h(15,2): warning C4091: 'typedef ': ignored on left of 'Data' when no variable is declared
+C:\Users\xxxme\Desktop\ASE\An2_Sem1\Poo\ProiecteVisual\ProiectFaza1\ProiectFaza1\Locatie.cpp(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Source.cpp
+C:\Users\xxxme\Desktop\ASE\An2_Sem1\Poo\ProiecteVisual\ProiectFaza1\ProiectFaza1\Source.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\xxxme\Desktop\ASE\An2_Sem1\Poo\ProiecteVisual\ProiectFaza1\ProiectFaza1\Locatie.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\xxxme\Desktop\ASE\An2_Sem1\Poo\ProiecteVisual\ProiectFaza1\ProiectFaza1\Eveniment.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\xxxme\Desktop\ASE\An2_Sem1\Poo\ProiecteVisual\ProiectFaza1\ProiectFaza1\Eveniment.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\xxxme\Desktop\ASE\An2_Sem1\Poo\ProiecteVisual\ProiectFaza1\ProiectFaza1\Ocazie.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\xxxme\Desktop\ASE\An2_Sem1\Poo\ProiecteVisual\ProiectFaza1\ProiectFaza1\Eveniment.h(15,2): warning C4091: 'typedef ': ignored on left of 'Data' when no variable is declared
+C:\Users\xxxme\Desktop\ASE\An2_Sem1\Poo\ProiecteVisual\ProiectFaza1\ProiectFaza1\Source.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\xxxme\Desktop\ASE\An2_Sem1\Poo\ProiecteVisual\ProiectFaza1\ProiectFaza1\Source.cpp(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\xxxme\Desktop\ASE\An2_Sem1\Poo\ProiecteVisual\ProiectFaza1\ProiectFaza1\Source.cpp(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\xxxme\Desktop\ASE\An2_Sem1\Poo\ProiecteVisual\ProiectFaza1\ProiectFaza1\Invitatie.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\xxxme\Desktop\ASE\An2_Sem1\Poo\ProiecteVisual\ProiectFaza1\ProiectFaza1\Source.cpp(128,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\xxxme\Desktop\ASE\An2_Sem1\Poo\ProiecteVisual\ProiectFaza1\ProiectFaza1\Source.cpp(135,40): warning C4312: 'type cast': conversion from 'int' to 'char *' of greater size
+C:\Users\xxxme\Desktop\ASE\An2_Sem1\Poo\ProiecteVisual\ProiectFaza1\ProiectFaza1\Source.cpp(136,40): warning C4312: 'type cast': conversion from 'int' to 'char *' of greater size
+C:\Users\xxxme\Desktop\ASE\An2_Sem1\Poo\ProiecteVisual\ProiectFaza1\ProiectFaza1\Source.cpp(137,36): warning C4312: 'type cast': conversion from 'int' to 'char *' of greater size
+C:\Users\xxxme\Desktop\ASE\An2_Sem1\Poo\ProiecteVisual\ProiectFaza1\ProiectFaza1\Source.cpp(138,42): warning C4312: 'type cast': conversion from 'int' to 'char *' of greater size
+  Generating Code...
+C:\Users\xxxme\Desktop\ASE\An2_Sem1\Poo\ProiecteVisual\ProiectFaza1\ProiectFaza1\Locatie.cpp(508): warning C4172: returning address of local variable or temporary: copie
+C:\Users\xxxme\Desktop\ASE\An2_Sem1\Poo\ProiecteVisual\ProiectFaza1\ProiectFaza1\Eveniment.cpp(166): warning C4715: 'Eveniment::validareData': not all control paths return a value
+  ProiectFaza1.vcxproj -> C:\Users\xxxme\Desktop\ASE\An2_Sem1\Poo\ProiecteVisual\ProiectFaza1\x64\Debug\ProiectFaza1.exe
